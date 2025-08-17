@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pt
+*.onnx
+*.bin
+.env
+data/*
+!data/.gitkeep
+experiments/*
+!experiments/.gitkeep
